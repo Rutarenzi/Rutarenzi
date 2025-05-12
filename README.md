@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an E-commerce <br>👯 I’m looking to collaborate on a payment gateway<br>🤝 I’m looking for help with Blockchain technology<br>🌱 Mastered ReactNative<br>💬 Ask me about the Javascript framework<br> Reach out to me via rutagaramaaxcel@gmail.com
+🔭 I’m currently working on an Blockchain projects <br>👯 I’m looking to collaborate on AI Agent projects <br>🤝 I’m looking for help with Cybersecurity<br>🌱 Mastered ReactNative<br>💬 Ask me about the Javascript framework<br> Reach out to me via rutagaramaaxcel@gmail.com
 
 
 ## 🌐 Socials:
